@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lesson2
+namespace CSharpLesson2
 {
     class Program
     {

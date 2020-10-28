@@ -35,8 +35,8 @@ namespace CSharpLesson3
             Console.WriteLine(someText);
             Console.WriteLine(number);
 
-            Console.WriteLine($"{someText} {nowDate} Число: {number}");
-            Console.WriteLine("{1}:{0:yyyy-MM-dd}, Число: {2}", nowDate, someText, number);
+            Console.WriteLine($"{someText} {nowDate}. Число: {number}");
+            Console.WriteLine("{1}:{0:yyyy-MM-dd}. Число: {2}", nowDate, someText, number);
 
             // ## Класс Console. Чтение данных из консоли
             // ### Метод Read
